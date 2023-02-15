@@ -1,0 +1,17 @@
+# CoolCordTools
+Just some cewl discord tools that include,
+Stub Builders
+Nuke bots
+and more to come!
+(Be sure to have anti virus off, dw its nothing serious, windows detects virus builders as viruses themselves)
+(Must have python 3.10 installed)
+⠀                             
+　　　　　🌸＞　　フ
+　　　　　| 　_　 _ l
+　 　　　／` ミ＿xノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ
